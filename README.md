@@ -1,4 +1,4 @@
-## Olá! Eu sou a Vanessa Moura
+## Oii! Eu sou a Vanessa Moura
 
 - 🦋 Desenvolvedora Python
 
