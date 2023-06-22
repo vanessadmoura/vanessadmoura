@@ -14,7 +14,6 @@
   <img align="center" alt="vanessadmoura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vanessadmoura-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="vanessadmoura-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mirandox&color=green" alt="mirandox"/>
 </div>
 
 ##
