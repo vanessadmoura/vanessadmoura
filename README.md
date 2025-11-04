@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Vanessa Moura
 
-- 🦋 Desenvolvedora Python
+- 🦋 Desenvolvedora atuando há mais de dois anos
 
 <div>
   <a href="https://github.com/vanessadmoura">
